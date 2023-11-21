@@ -26,5 +26,5 @@ spec:
         app: todo
     spec:
       containers:
-        - name: todo-react
-          image: vanathu/todo-react:latest
+        - name: react-demo
+          image: vanathu/react-demo:latest
